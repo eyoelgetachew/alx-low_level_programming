@@ -69,3 +69,4 @@ void print_number(int number)
 	}
 	_putchar(counter % 10 + '0');
 }
+
